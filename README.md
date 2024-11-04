@@ -19,7 +19,7 @@ This repository is set up to teach CU students in CSCI 1000 the basics of source
 >
 >  *this* can be **useful**.
 
--these
--are
--bullet
--points
+- these
+- are
+- bullet
+- points
